@@ -20,7 +20,7 @@ In this study for the following languages will be used;
 > * TR: N adet tam sayıdan oluşan bir liste veriliyor. Bu listede 1'den N'e kadar olan sayılardan, birisi eksik, birisi iki kere geçiyor, gerisi tam olarak bir kere geçiyor. <br><br>
 Görev: Eksik ve iki defa geçen elemanları bulunuz.
 <br><br>
-> Swift [Solution](http://nbviewer.ipython.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_solution.ipynb)
+> Swift [Solution](https://github.com/mrabdullahsahin/algorithm-challenge-club/tree/master/1/Swift/MyPlayground.playground)
 <br>
 > Other Solution Coming Soon..
 
