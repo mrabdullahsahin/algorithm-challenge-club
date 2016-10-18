@@ -15,12 +15,20 @@ In this study for the following languages will be used;
 ## **Algorithm Challenges**
 
 ### 1) Missing and find out more.
-> * EN: N pieces are given a list of integers. This list of numbers up to N 1, one missing, someone goes and goes behind twice exactly once. <br><br>Task: Find the missing twice and last elements.
+> * N pieces are given a list of integers. This list of numbers up to N 1, one missing, someone goes and goes behind twice exactly once. <br><br>Task: Find the missing twice and last elements.
+<br>
+
+> Swift [Solution](https://github.com/mrabdullahsahin/algorithm-challenge-club/tree/master/1/Swift/MyPlayground.playground) |
+<br>
+> Other Solution Coming Soon..
+
+### 2) Two Sum
+> * Given an array of integers, of the result such that they add up to a specific target. <br> You may assume that each input would have exactly one solution.
 <br><br>
-> * TR: N adet tam sayıdan oluşan bir liste veriliyor. Bu listede 1'den N'e kadar olan sayılardan, birisi eksik, birisi iki kere geçiyor, gerisi tam olarak bir kere geçiyor. <br><br>
-Görev: Eksik ve iki defa geçen elemanları bulunuz.
-<br><br>
-> Swift [Solution](https://github.com/mrabdullahsahin/algorithm-challenge-club/tree/master/1/Swift/MyPlayground.playground)
+
+> * Given nums = [2, 7, 11, 15], target = 9 <br> Because nums[0] + nums[1] = 2 + 7 = 9 <br>
+
+> Swift [Solution](https://github.com/mrabdullahsahin/algorithm-challenge-club/tree/master/2/Swift/MyPlayground.playground) |
 <br>
 > Other Solution Coming Soon..
 
